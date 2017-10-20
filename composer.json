@@ -3,7 +3,7 @@
     "description": "Baidu OAuth2 Provider for Laravel Socialite",
     "license": "MIT",
     "authors": [{
-        "name": "Vasiliy",
+        "name": "Vasiliy"
     }],
     "require": {
         "php": "^5.6 || ^7.0",
