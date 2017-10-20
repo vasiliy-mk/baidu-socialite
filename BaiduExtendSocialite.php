@@ -1,6 +1,6 @@
 <?php
 
-namespace SocialiteProviders\Baidu;
+namespace Vasilliy\Baidu;
 
 use SocialiteProviders\Manager\SocialiteWasCalled;
 

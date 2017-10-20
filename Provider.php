@@ -1,6 +1,6 @@
 <?php
 
-namespace SocialiteProviders\Baidu;
+namespace Vasiliy\Baidu;
 
 use SocialiteProviders\Manager\OAuth2\User;
 use Laravel\Socialite\Two\ProviderInterface;
