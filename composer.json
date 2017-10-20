@@ -11,7 +11,7 @@
     },
     "autoload": {
         "psr-4": {
-            "SocialiteProviders\\baidu\\": ""
+            "vasiliy-mk\\baidu-socialite\\": ""
         }
     }
 }
